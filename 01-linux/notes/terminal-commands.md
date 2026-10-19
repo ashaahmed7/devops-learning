@@ -4,6 +4,12 @@
 
 There are many useful commands in Linux!
 
+The `man` command stands for **manual**. It displays the built-in documentation for Linux commands. e.g. `man ls`
+
+`--help` is a command-line option that displays a **quick help summary** for a command. e.g. `ls --help`
+
+`clear` - This removes the visible text from the terminal screen and places the prompt at the top, or Ctrl + L
+
 ## Common Commands
 
 `pwd` stands for **Print Working Directory**. It shows the **current folder (directory)** you're in within the terminal.
