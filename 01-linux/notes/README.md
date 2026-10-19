@@ -30,4 +30,3 @@ When creating a new note, you can use this structure:
 ## Your Notes
 
 - [ ] Add your first note
-
