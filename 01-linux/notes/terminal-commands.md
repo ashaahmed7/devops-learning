@@ -25,6 +25,12 @@ The `man` command stands for **manual**. It displays the built-in documentation 
 - `ls` = list files and folders
 - `-R` = recursive, meaning it also shows the contents of all subdirectories
 
+`ls -lah` is used to list files and directories with extra details.
+
+- `l` → long format (shows permissions, owner, size, date, etc.)
+- `a` → show all files, including hidden files (those starting with .)
+- `h` → human-readable sizes (e.g., 4.0K, 12M, 2.1G instead of bytes)
+
 `touch` is a command used to **create an empty file** or **update a file's timestamp**.
 
 `mkdir` stands for **make directory**. It creates a new folder.
