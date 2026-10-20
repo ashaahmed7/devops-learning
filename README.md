@@ -1,16 +1,6 @@
 # DevOps Learning Journey
 
-Your personal repository for tracking progress through the CoderCo DevOps curriculum.
-
-## Quick Start
-
-1. Click **"Use this template"** then **"Create a new repository"**
-2. Clone your new repo locally
-3. Start learning and commit your progress
-
-![UseTemplate](./images/UseTemplate.png)
-
-![CreateRepo](./images/Createrepo.png)
+My personal repository for tracking progress through the CoderCo DevOps curriculum.
 
 ## Repository Structure
 
@@ -30,7 +20,7 @@ devops-learning/
 
 Each module contains:
 
-- **notes/** – Your personal notes and summaries
+- **notes/** – personal notes and summaries
 - **labs/** – Completed lab exercises
 - **projects/** – Hands-on projects
 
@@ -48,7 +38,7 @@ Each module contains:
 | 08 - CI/CD      | Not Started | 0/0   | 0/0  | 0/0      |
 | 09 - Kubernetes | Not Started | 0/0   | 0/0  | 0/0      |
 
-Update this table as you progress.
+Updating this table as I progress.
 
 ## How to Use This Repo
 
@@ -60,21 +50,21 @@ After each lesson, create a note:
 touch 01-linux/notes/file-permissions.md
 ```
 
-Write in your own words – this helps you remember.
+Write in my own words – this helps me remember.
 
 ### Completing Labs
 
-Document what you did and what you learned:
+Document what I did and what I learned:
 
 ```bash
 touch 01-linux/labs/lab01-basic-commands.md
 ```
 
-Include commands, outputs, and any errors you hit.
+Include commands, outputs, and any errors I hit.
 
 ### Building Projects
 
-Create a folder with your code and a README:
+Create a folder with my code and a README:
 
 ```
 01-linux/projects/backup-script/
@@ -98,17 +88,7 @@ git commit -m "Add notes on Linux file permissions"
 
 **Stay organised** – Put files in the right folders.
 
-**Share your progress** – Post on LinkedIn, tag @CoderCo!
-
 ## Useful Links
 
 - [CoderCo Community](https://www.skool.com/coderco)
 - [CoderCo Dotfiles](https://github.com/coderco-learning/dotfiles)
-
-## License
-
-MIT – Use this template however you like.
-
----
-
-Questions? Ask in the CoderCo community.
